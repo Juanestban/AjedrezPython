@@ -3,7 +3,7 @@
 import pygame, sys
 import pygame.locals as GAME_GLOBALS
 import pygame.event as GAME_EVENTS
-from Torre import *
+#from Torre import *
 
 pygame.init()
 Reloj = pygame.time.Clock()
